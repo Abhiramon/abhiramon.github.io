@@ -1,1 +1,2 @@
-# Welcome to Abhiramon's page
+# About me
+## I am a 5th year Computer Science student at IIIT Bangalore. I'm passionate about data science and its ability to transform our future. I work on research projects with a focus on enabling machines to use natural language to solve problems. During my spare time, I love to play music, soccer and catch up with the latest TV shows.
