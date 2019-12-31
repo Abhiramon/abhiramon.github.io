@@ -1,3 +1,11 @@
-theme: jekyll-theme-time-machine
-title: Abhiramon Rajasekharan
-description: Welcome to my webpage!
+title: Abhiramon Rajasekharan # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Hi, 
+  <br><br>
+  Welcome to my webpage!
+  <br><br>
+  <a href="https://www.linkedin.com/in/abhiramon-rajasekharan/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
