@@ -8,7 +8,7 @@ I'm a Computer Science Ph.D. student at the University of Texas at Dallas. My cu
 
 ### Projects
 
-[Image to Rhyming Poetry](https://github.com/Abhiramon/Poetry-from-Image-Descriptions/blob/main/Thesis.pdf)
+[Description to Rhyming Poetry](https://github.com/Abhiramon/Poetry-from-Image-Descriptions/blob/main/Thesis.pdf)
 
 Given an image caption as stimulus, poetry is generated. The challenge is making the poetry rhyme, fluent (less repetition) and relevant to the caption content at the same time. The outputs of different models for the same image of a flower (caption: 'A closeup of a flower') are given below:
 
