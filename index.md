@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm currently a fifth-year Computer Science student at <a href="https://www.iiitb.ac.in">IIIT Bangalore</a> with Data Science specialization. I'm passionate about research in Artificial Intelligence. I love building applications to empower machines and simplify human lives. I spend my free time playing music (guitar, keyboard), soccer and exploring new places!
+I am a Computer Science Ph.D. student at the University of Texas at Dallas. My current research is on automated logical reasoning in natural language. I love building applications to empower machines and simplify human lives. I spend my free time playing music (guitar, keyboard), soccer and exploring new places!
 
 ### Projects
 
