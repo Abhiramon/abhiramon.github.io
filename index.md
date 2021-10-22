@@ -4,10 +4,16 @@
 
 ### About me
 
-I am a Computer Science Ph.D. student at the University of Texas at Dallas. My current research is on automated logical reasoning in natural language. I love building applications to empower machines and simplify human lives. I spend my free time playing music (guitar, keyboard), soccer and exploring new places!
+I'm a Computer Science Ph.D. student at the University of Texas at Dallas. My current research is on automated logical reasoning in natural language. I love building applications to empower machines and simplify human lives. I spend my free time playing music (guitar, keyboard), soccer and exploring new places!
 
 ### Projects
 
+[Image to Rhyming Poetry](https://github.com/Abhiramon/Poetry-from-Image-Descriptions/blob/main/Thesis.pdf)
+Given an image caption as stimulus, poetry is generated. The challenge is making the poetry rhyme, fluent (less repetition) and relevant to the caption content at the same time. The outputs of different models for the same image of a flower (caption: 'A closeup of a flower') are given below:
+
+<img src="images/poetry_comparision_flower_image.JPG?raw=true"/>
+
+---
 [Reinforcement Learning with Human Feedback](https://github.com/Abhiramon/Pacman_RL_with_feedback)
 
 Pacman learns using reinforcement learning (Function approx. Q learning) improved through human feedback. After training, a test run looks like:
