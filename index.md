@@ -8,9 +8,9 @@ I'm a Computer Science Ph.D. student at the University of Texas at Dallas. My cu
 
 ### Projects
 
-[Improving Natural Language Reasoning using ASP and LLMs](https://www.semanticscholar.org/paper/Reliable-Natural-Language-Understanding-with-Large-Rajasekharan-Zeng/b549716038bb167fcc65e3f9f725013d8b2ea649)
+[Improving Natural Language Reasoning using ASP and LLMs (ICLP '23)](https://www.semanticscholar.org/paper/Reliable-Natural-Language-Understanding-with-Large-Rajasekharan-Zeng/b549716038bb167fcc65e3f9f725013d8b2ea649)
 
-STAR (Semantic parsing Transformer and Asp Reasoner) framework is applied to reasoning challenges such as qualitative reasoning (reasoning about physical properties), mathematical reasoning or goal-directed conversation (a bot that helps you find a restaurant). By converting text to logic predicates using Large Language Models (GPT-3) and reasoning over them using commonsense knowledge encoded using Answer Set Programs, we demonstrate an improvement over baseline models.
+STAR (Semantic parsing Transformer and Asp Reasoner) framework is applied to reasoning challenges such as qualitative reasoning (reasoning about physical properties), mathematical reasoning or goal-directed conversation (a bot that helps you find a restaurant). By converting text to logic predicates using Large Language Models (GPT-3) and reasoning over them using commonsense knowledge encoded using Answer Set Programs, we demonstrate an improvement over baseline models. Accepted in the ICLP '23 conference.
 
 
 <img src="images/STAR.png?raw=true"/>
