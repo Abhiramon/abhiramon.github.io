@@ -4,9 +4,17 @@
 
 ### About me
 
-I'm a Computer Science Ph.D. student at the University of Texas at Dallas. My current research is on automated logical reasoning in natural language. I love building applications to empower machines and simplify human lives. I spend my free time playing music (guitar, keyboard), soccer and exploring new places!
+I'm a Computer Science Ph.D. student at the University of Texas at Dallas. My current research is on automated logical reasoning in natural language. I love building applications that simplify human lives. In my free time, you'll find me playing guitar, reading a book or on a climbing wall.
 
 ### Projects
+
+[Improving Natural Language Reasoning using ASP and LLMs](https://www.semanticscholar.org/paper/Reliable-Natural-Language-Understanding-with-Large-Rajasekharan-Zeng/b549716038bb167fcc65e3f9f725013d8b2ea649)
+
+STAR (Semantic parsing Transformer and Asp Reasoner) framework is applied to reasoning challenges such as qualitative reasoning (reasoning about physical properties), mathematical reasoning or goal-directed conversation (a bot that helps you find a restaurant). By converting text to logic predicates using Large Language Models (GPT-3) and reasoning over them using commonsense knowledge encoded using Answer Set Programs, we demonstrate an improvement over baseline models.
+
+
+<img src="images/STAR.png?raw=true"/>
+
 
 [Image to Rhyming Poetry](https://github.com/Abhiramon/Poetry-from-Image-Descriptions/blob/main/Thesis.pdf)
 
