@@ -44,17 +44,20 @@
 }
 
 .experience-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
   padding: 8px 0;
   border-bottom: 1px solid #f0f0f0;
-  flex-wrap: wrap;
-  gap: 4px;
 }
 
 .experience-item:last-child {
   border-bottom: none;
+}
+
+.experience-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px;
 }
 
 .experience-header {
@@ -74,6 +77,13 @@
   font-size: 0.85em;
   color: #777;
   white-space: nowrap;
+}
+
+.experience-desc {
+  font-size: 0.88em;
+  color: #555;
+  margin: 4px 0 0 0;
+  line-height: 1.5;
 }
 
 /* ── Paper cards ───────────────────────────────────────────── */
