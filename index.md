@@ -72,7 +72,7 @@ I'm a Ph.D. candidate in Computer Science at the University of Texas at Dallas. 
 <div class="paper-card">
   <p class="paper-title"><a href="https://arxiv.org/abs/2601.18620">CASSANDRA: Programmatic and Probabilistic Learning and Inference for Stochastic World Modeling</a></p>
   <div class="paper-meta">
-    <span class="venue-badge">Workshop on World Models (WMW), 2026</span>
+    <span class="venue-badge">World Modeling Workshop (WMW), 2026</span>
   </div>
   <p class="paper-abstract">
     Introduces <strong>CASSANDRA</strong>, a dual-stream framework that integrates code and probabilistic graphical models for stochastic world modeling. The system learns <strong>lightweight, executable world models</strong> that support long-horizon planning in complex environments. Empirically, it helps a planning agent achieve <strong>50-day bankruptcy-free survival</strong> in the Mini Amusement Parks benchmark, significantly outperforming comparable LLM-based world models.
