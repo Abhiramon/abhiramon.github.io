@@ -158,6 +158,60 @@
   margin-top: 10px;
 }
 
+/* ── Education ─────────────────────────────────────────────── */
+.education-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5em 0;
+}
+
+.education-item {
+  padding: 8px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.education-item:last-child {
+  border-bottom: none;
+}
+
+.education-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.education-header {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.education-degree {
+  font-size: 0.95em;
+  color: #2c4a9e;
+  font-weight: 700;
+}
+
+.education-org {
+  font-size: 0.9em;
+  color: #1a1a1a;
+}
+
+.education-dates {
+  font-size: 0.85em;
+  color: #777;
+  white-space: nowrap;
+}
+
+.education-desc {
+  font-size: 0.88em;
+  color: #555;
+  margin: 4px 0 0 0;
+  line-height: 1.5;
+}
+
 /* ── Social icon links ─────────────────────────────────────── */
 .social-icons {
   display: flex;
