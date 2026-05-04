@@ -8,7 +8,7 @@ layout: default
 
 <p class="section-title">About Me</p>
 
-I'm a Ph.D. candidate in Computer Science at the University of Texas at Dallas. My research broadly falls into **Neuro-Symbolic Reasoning**, **Explainable decision-making**, and **Code Generation under Low-Resource Settings**. The goal of my research is to help LLMs perform better in reasoning tasks, especially in high-stakes domains such as healthcare and tax compliance where **reliability** and **explainability** are crucial. By allowing LLMs leverage logic programs to encode reasoning, we can reduce hallucination and produce human-readable justifications at the same time.
+I'm a Ph.D. candidate in Computer Science at the University of Texas at Dallas. My research broadly falls into **Neuro-Symbolic Reasoning**, **Explainable decision-making**, and **Code Generation under Low-Resource Settings**. The goal of my research is to help LLMs perform better in reasoning tasks, especially in high-stakes domains such as healthcare and tax compliance where **reliability** and **explainability** are crucial. I develop methods that enable LLMs to capture reasoning as code (such as logic programs) which reduces hallucination and can produce human-readable explanations.
 
 ---
 
@@ -121,3 +121,5 @@ I'm a Ph.D. candidate in Computer Science at the University of Texas at Dallas. 
   </p>
   <img class="paper-img" src="images/prolog_book.jpg?raw=true" alt="Prolog figure"/>
 </div>
+
+<p class="scholar-link">See my <a href="https://scholar.google.com/citations?user=A-7-1OEAAAAJ&hl=en" target="_blank">Google Scholar</a> page for complete list.</p>

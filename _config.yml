@@ -1,9 +1,10 @@
 title: Abhiramon Rajasekharan # your name (or website title) here
-logo: "/images/headshot.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/abhiramon-rajasekharan/">LinkedIn</a>
-  <br>
-  <a href="https://scholar.google.com/citations?user=A-7-1OEAAAAJ&hl=en">Google Scholar</a>
-  
+logo: "/images/profile.jpeg?raw=true" # your photo (or logo) here
+description: >
+  <div class="social-icons">
+    <a href="https://www.linkedin.com/in/abhiramon-rajasekharan/" title="LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+    <a href="https://scholar.google.com/citations?user=A-7-1OEAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>
+  </div>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
