@@ -43,7 +43,7 @@ I'm a Ph.D. candidate in Computer Science at the University of Texas at Dallas. 
       </div>
       <span class="experience-dates">June 2022 &ndash; Aug 2022</span>
     </div>
-    <p class="experience-desc">Name-spinnig fraud detection via a novel character-embedding partial-name matching model (PyTorch); improved detection precision by 26%.</p>
+    <p class="experience-desc">Name-spinnig fraud detection via a novel name part mapping algorithm using character-embeddings (PyTorch); improved F1 score from 19% to 46%.</p>
   </li>
   <li class="experience-item">
     <div class="experience-row">
@@ -52,7 +52,7 @@ I'm a Ph.D. candidate in Computer Science at the University of Texas at Dallas. 
       </div>
       <span class="experience-dates">July 2019 &ndash; Dec 2019</span>
     </div>
-    <p class="experience-desc">Stock movement classification via an LSTM + R-GCN model learned from company knowledge graphs and financial news; achieved a 65% relative improvement over baseline.</p>
+    <p class="experience-desc">Stock movement classification via an LSTM + R-GCN model learned from company knowledge graphs and financial news.</p>
   </li>
   <li class="experience-item">
     <div class="experience-row">

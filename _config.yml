@@ -4,6 +4,7 @@ description: >
   <div class="social-icons">
     <a href="https://www.linkedin.com/in/abhiramon-rajasekharan/" title="LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
     <a href="https://scholar.google.com/citations?user=A-7-1OEAAAAJ&hl=en" title="Google Scholar" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://github.com/Abhiramon" title="GitHub" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
   </div>
 
 theme: jekyll-theme-minimal
